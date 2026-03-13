@@ -1,121 +1,45 @@
-<!-- HEADER BANNER -->
+# 👋 Hi, I'm Divine Sunday OFUOWOICHO
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Divine%20Sunday%20OFUOWOICHO&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</p>
+### 🔭 Software Engineer | Tech Enthusiast | Problem Solver
 
-<!-- TYPING INTRO -->
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Computer+Science+Student;Future+Software+Engineer;Building+Scalable+Systems;Always+Learning+New+Things"/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=er4700345-coder&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
-</p>
+I build real-world projects, experiment with new tech, and love coding challenging systems.
 
 ---
 
-# 🧠 About Me
+## 🔧 Tech Stack
 
-💻 Computer Science Student  
-⚙️ Backend Developer  
-🌍 Based in Nigeria  
-🚀 Passionate about solving real-world problems with software  
-📚 Currently learning **Algorithms, Backend Systems & Software Architecture**
-
----
-
-# 🧰 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,python,nodejs,express,mongodb,html,css,git,github,vscode"/>
-</p>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
+## 💼 Projects
 
-<p align="center">
+| Project | Description |
+|---------|-------------|
+| **Oakline** | Serverless digital wealth platform with analytics & sandbox trading |
+| **Financial Behavior Engine** | Python analytics engine predicting patterns & risks |
+| **Ethical Cyber Lab** | Python-based security & analysis tools |
+| **CodeForge** | Backend tooling & utilities |
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=er4700345-coder&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=er4700345-coder&show_icons=true&theme=tokyonight"/>
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=er4700345-coder&layout=compact&theme=tokyonight"/>
-</p>
+*See more in my [GitHub Repositories](https://github.com/er4700345-coder)*
 
 ---
 
-# 📈 Activity Dashboard
+## 📫 Contact Me
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=er4700345-coder&theme=tokyonight"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-</p>
+📧 divinesunday247@gmail.com  
+🌐 [GitHub](https://github.com/er4700345-coder)
 
 ---
 
-# 🧑‍💻 Developer Mindset
+## 💡 Motto
 
-- Build solutions that solve **real-world problems**
-- Write code that is **clean and maintainable**
-- Focus on **systems thinking**
-- Always keep **learning**
-
----
-
-# 🎯 2026 Goals
-
-✔ Master backend architecture  
-✔ Build production-ready projects  
-✔ Contribute to open source  
-✔ Grow as a software engineer
-
----
-
-# 🧑‍🚀 Dev Lifestyle
-
-☕ Coffee + Code  
-🎧 Music while coding  
-🌙 Late night debugging sessions  
-
----
-
-# 🤝 Open to Opportunities
-
-I’m open to:
-
-• Internships  
-• Junior developer roles  
-• Tech collaborations  
-
-📧 **Email:** divinesunday247@gmail.com
-
----
-
-# 💡 Philosophy
-
-> Time doesn't wait for you. Don't wait for time.
-
----
-
-<!-- FOOTER -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=120&section=footer"/>
-</p>
+> "Build with intention. Learn by doing."
