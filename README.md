@@ -1,7 +1,7 @@
 # 🧪 Divine Sunday OFUOWOICHO Labs — Experimental AI & Systems Research
 
 ![Profile Banner](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)  
-*Welcome to my experimental lab where AI, autonomous systems, decentralized networks, and security meet.*
+*Welcome to my experimental lab. AI, autonomous systems, decentralized networks, and security collide here.*
 
 ---
 
@@ -10,10 +10,7 @@
 - 🔭 Building **autonomous AI agents**, decentralized networks, and security auditing systems  
 - 🌐 Exploring **Web6-level ecosystems** and future internet architectures  
 - 💻 Passionate about **AI-assisted development**, **DevSecOps**, and **experimental software platforms**  
-- ⚡ Currently experimenting with:
-  - **GhostNet** — decentralized P2P mesh networking  
-  - **CodeForge** — autonomous AI software engineer  
-  - **sentinelAI** — autonomous repository & security auditor  
+- ⚡ Brain cells overworked daily… but the experiments are worth it 😈  
 
 ---
 
@@ -32,23 +29,35 @@
 
 ## 🧩 Projects Overview
 
-### 1️⃣ **GhostNet**
+### 1️⃣ GhostNet
 Autonomous **decentralized networking protocol** for P2P communication, distributed storage, and anonymous routing.  
-![GhostNet Diagram](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![GhostNet Diagram](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
+**Focus:** Networking | Decentralization | Privacy
 
-### 2️⃣ **CodeForge**
-Experimental **AI programming agent** that plans tasks, writes code, executes tests, and manages pull requests autonomously.  
-![CodeForge Flow](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+### 2️⃣ CodeForge
+Experimental **AI programming agent** capable of planning tasks, writing code, executing tests, and managing pull requests autonomously.  
+![CodeForge Flow](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)  
+**Focus:** AI | Software Automation | DevOps
 
-### 3️⃣ **sentinelAI**
+### 3️⃣ sentinelAI
 Autonomous **AI-powered security auditor** scanning repositories, detecting vulnerabilities, and generating developer-friendly reports.  
-![sentinelAI Workflow](https://media.giphy.com/media/3o7TKP7BczIhN7npwc/giphy.gif)
+![sentinelAI Workflow](https://media.giphy.com/media/3o7TKP7BczIhN7npwc/giphy.gif)  
+**Focus:** Security | DevSecOps | AI
 
-### 4️⃣ **Financial Behavior Engine**
-Analytics engine for understanding **user financial behaviors** and simulating outcomes for investment strategies.
+### 4️⃣ Financial Behavior Engine
+Analytics engine for understanding **user financial behaviors**, simulating investment outcomes, and generating actionable insights.  
+![Financial Behavior Engine Diagram](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)  
+**Focus:** Finance | Analytics | AI
 
-### 5️⃣ **Ethical Cyber Lab**
-Research hub for **cybersecurity experiments, penetration testing, and AI security explorations**.
+### 5️⃣ Ethical Cyber Lab
+Research hub for **cybersecurity experiments, penetration testing, and AI security explorations**.  
+![Ethical Cyber Lab GIF](https://media.giphy.com/media/l4EoX2pX65E4eNxrK/giphy.gif)  
+**Focus:** Security Research | AI | Ethics
+
+### 6️⃣ Adams Street Partners
+Private experimental **investment platform** integrating analytics, AI predictions, and behavioral insights.  
+![Adams Street Partners Diagram](https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif)  
+**Focus:** Finance | Platform Engineering | AI
 
 ---
 
@@ -74,4 +83,4 @@ This profile README and content is released under the **MIT License**.
 
 ---
 
-> "Building the autonomous, decentralized, and AI-driven internet — one repo at a time." 🧙‍♂️
+> "Experiments may burn neurons, but the lab thrives. Building autonomous, decentralized, and AI-driven systems — one mad creation at a time." 🧙‍♂️
